@@ -1,6 +1,6 @@
 # Dogeify
 
-TODO: Write a gem description
+Ruby gem that translates text into doge-speak.
 
 ## Installation
 
